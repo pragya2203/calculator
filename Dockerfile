@@ -1,5 +1,5 @@
 # Start with a lightweight Java 17 (or 11) base image
-FROM openjdk:17-alpine
+FROM openjdk:21-alpine
 
 # Set the working directory inside the container
 WORKDIR /app

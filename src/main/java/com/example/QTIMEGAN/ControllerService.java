@@ -1,4 +1,4 @@
-package com.example.QTIMEGAN;
+package com.example.calculator;
 
 import org.springframework.stereotype.Service;
 
